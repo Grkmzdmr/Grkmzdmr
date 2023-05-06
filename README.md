@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on NotSoSecret Mobile App. I'm working as a Software Engineer
 
-https://apps.apple.com/tr/app/notsosecret/id1671631074?l=tr
+https://apps.apple.com/tr/app/notsosecret/id1671631074?l=tr <br/>
 https://play.google.com/store/apps/details?id=com.snowsparrow.not_so_secret&hl=sv&pli=1
 
 # 💻 Tech Stack:
